@@ -1,0 +1,21 @@
+.text-banner{ 
+    color: blueviolet;
+} /*ao usar "." no inico, marca apenas a clase*/
+
+h1{
+    color:aquamarine;
+} /*Ao usar "h1" no inicio, marca todos os h1 do site*/
+body{
+    background-color:rgb(132, 255, 0);
+}
+
+.container{
+    width: 100%;;
+    background-color: rgb(38, 0, 255);
+    height:  50px;
+
+}
+.image{
+    width: 50%;;
+    height: 50%;;
+}
